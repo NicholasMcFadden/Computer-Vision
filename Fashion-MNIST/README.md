@@ -7,7 +7,7 @@
 
 Here's an example of how the data looks (each class takes three-rows):'''
 
-![image](https://github.com/NicholasMcFadden/Image-Classification_Fashion-MNIST/assets/97934765/d1445362-4c11-413f-88d6-8dc4c7bc8a05)
+Computer-Vision\Fashion-MNIST\fashion-mnist-sprite.png
 
 ### Why they made Fashion-MNIST:
 
